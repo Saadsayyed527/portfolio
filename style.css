@@ -81,7 +81,7 @@
 /*////// home section styling /////*/
 .home::before{
     content: "";
-    background: url(../homeImg.jpg) no-repeat center center/cover;
+    background: url(homeImg.jpg) no-repeat center center/cover;
     position: absolute;
     height: 100%;
     top: 0px;
